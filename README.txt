@@ -1,4 +1,4 @@
-############# Vending Machine ##############
+
 # Project setup
 - ants/src folder contains all the components and frontend renders
 
